@@ -12,7 +12,7 @@ then it will run in port 5000 and url will be https://localhost:5000
 
 ## Example:
 
-[LIVE](https://sleepy-everglades-05720.herokuapp.com/) | [Frontend](https://github.com/nokibrokes/creative-agency-frontend)
+[LIVE](https://creative-agency-api.herokuapp.com/) | [Frontend](https://github.com/nokibrokes/creative-agency-frontend)
 
 ## Api Documentation
 
